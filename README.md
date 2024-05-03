@@ -28,13 +28,13 @@ Everything on this Toolhead is made to work smoothly inside the Monolith Gantry,
 
 
 **Available Extruder configurations:**
-- DFA Extruder by Annex [![here](https://github.com/Annex-Engineering/Folded_Ascender-Extruder)
-- WristWatch Extruder [![here](https://github.com/tetsu97/WristWatch-G2-Extruder/tree/main)
+- DFA Extruder by Annex [here](https://github.com/Annex-Engineering/Folded_Ascender-Extruder)
+- WristWatch Extruder [here](https://github.com/tetsu97/WristWatch-G2-Extruder/tree/main)
 
 
 **WIP Hotend configurations:**
-- LDO Orbiter 2.0 [![here](https://www.orbiterprojects.com/orbiter-v2-0/)
-- Sherpa Micro Extruder [![here](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder/tree/main)
+- LDO Orbiter 2.0 [here](https://www.orbiterprojects.com/orbiter-v2-0/)
+- Sherpa Micro Extruder [here](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder/tree/main)
 
 
 **Available Part Cooling FAN configurations:**
@@ -47,11 +47,11 @@ Everything on this Toolhead is made to work smoothly inside the Monolith Gantry,
 
   
 **Available Probe configurations:**
-- BEACON Probe [![here](https://beacon3d.com)
+- BEACON Probe [here](https://beacon3d.com)
 
 
 **WIP Probe configurations:**
-- Klicky [![here](https://github.com/jlas1/Klicky-Probe)
+- Klicky [here](https://github.com/jlas1/Klicky-Probe)
 
 
 ![2](Images/ww_back.png)
