@@ -16,13 +16,13 @@ Everything on this Toolhead is made to work smoothly inside the Monolith Gantry,
 
 **Available Hotend configurations:**
 - (WC) Dragon (ACE) UHF+(+)
-
+- Rapido UHF(+)
 
 **WIP Hotend configurations:**
 - Goliath Water & Air
 - Chube AIR
 - Secret Upcoming Hotend made by our company RCI
-- Rapido UHF(+)
+
 
 
 **Available Extruder configurations:**
