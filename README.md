@@ -11,9 +11,7 @@
 This is a performance-oriented, configurable Toolhead platform for the Monolith Gantry which was made for the Voron V2.4/Trident by CloakedWayne.
 Everything on this Toolhead is made to work smoothly inside the Monolith Gantry, which results into 0 Build Volume loss and to actually use it´s full potential. 
 
-*If you have questions about the Monolith Gantry, feel free to join the Monolith Discord.*
-
-[![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
+*If you have questions about the Monolith Gantry, feel free to join the Monolith Discord. [Join the Monolith Discord](https://discord.gg/JanBKxAzDz)*
 
 
 **Available Hotend configurations:**
