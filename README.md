@@ -1,7 +1,7 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 # Gustav - Railway Toolhead 
-![1](Images/V2_9mm_front_rail.png)
+![1](Images/wristwatch.png)
 
 *If you have questions or wanna stay more up to date with our Railway System, consider joining the dedicated Discord server from our Company.*
 
