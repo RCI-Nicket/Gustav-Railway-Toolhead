@@ -32,7 +32,7 @@ Everything on this Toolhead is made to work smoothly inside the Monolith Gantry,
 **Available Probe configurations:**
 - BEACON (Why would you ever need anything else?)
   
-![2](Images/Monolith.png)
+![2](Images/ww_back.png)
 
 ## 2024 Roadmap
 ### Planned improvements for R1:
