@@ -19,32 +19,41 @@ Everything on this Toolhead is made to work smoothly inside the Monolith Gantry,
 **Available Hotend configurations:**
 - (WC) Dragon (ACE) UHF+(+)
 
-- **WIP Hotend configurations:**
+
+**WIP Hotend configurations:**
 - Goliath Water & Air
 - Chube AIR
 - Secret Upcoming Hotend made by our company RCI
 - Rapido UHF(+)
 
+
 **Available Extruder configurations:**
 - DFA Extruder by Annex
 - WristWatch Extruder
+
 
 **WIP Hotend configurations:**
 - LDO Orbiter 2.0
 - Sherpa Micro Extruder
 
+
 **Available Part Cooling FAN configurations:**
 - CPAP
+
 
 **WIP Hotend configurations:**
 - Single 5015
 - Dual 5015
+
   
 **Available Probe configurations:**
 - BEACON Probe
 
+
 **WIP Probe configurations:**
 - Klicky
+
+
 ![2](Images/ww_back.png)
 
 ## 2024 Roadmap
