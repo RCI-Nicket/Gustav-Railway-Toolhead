@@ -54,6 +54,9 @@ Everything on this Toolhead is made to work smoothly inside the Monolith Gantry,
 - Recommended print settings for carrier: 3 walls, 100% infill, 0.15-02mm layer height, 0.4 nozzle
 - Recommended material: **ABS CF/GF or better**
 
+## Bills of Material
+- 2x MakerBeam XL 15x15 Profil (Not realy needed, but way more comfortable) 
+
 
 <br/><br/><br/><br/>
 This work is licensed under a
