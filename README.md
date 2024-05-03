@@ -1,18 +1,25 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# Gustav - Railway Toolhead 
+# Gustav - Railway Toolhead (WIP)
 ![1](Images/wristwatch.png)
 
-*If you have questions or wanna stay more up to date with our Railway System, consider joining the dedicated Discord server from our Company.*
+*If you have questions, have some suggestions or wanna stay more up to date with our Railway System, consider joining the dedicated Discord server*
 
 [![Join the Discord](https://discord.com/api/guilds/1209243645421555815/widget.png?style=banner3)]([https://discord.gg/JanBKxAzDz](https://discord.gg/982nJFKNEd))
 
 ## What's this?
 This is a performance-oriented, configurable Toolhead platform for the Monolith Gantry which was made for the Voron V2.4/Trident by CloakedWayne.
-Everything on this Toolhead is made to work smoothly inside the Monolith Gantry, which results into 0 Build Volume loss and extended travel. 
+Everything on this Toolhead is made to work smoothly inside the Monolith Gantry, which results into 0 Build Volume loss and to actually use it´s full potential. 
+
+*If you have questions about the Monolith Gantry, feel free to join the Monolith Discord.*
+
+[![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
+
 
 **Available Hotend configurations:**
 - (WC) Dragon (ACE) UHF+(+)
+
+- **WIP Hotend configurations:**
 - Goliath Water & Air
 - Chube AIR
 - Secret Upcoming Hotend made by our company RCI
@@ -20,18 +27,24 @@ Everything on this Toolhead is made to work smoothly inside the Monolith Gantry,
 
 **Available Extruder configurations:**
 - DFA Extruder by Annex
-- Sherpa Micro Extruder
 - WristWatch Extruder
+
+**WIP Hotend configurations:**
 - LDO Orbiter 2.0
+- Sherpa Micro Extruder
 
 **Available Part Cooling FAN configurations:**
 - CPAP
+
+**WIP Hotend configurations:**
 - Single 5015
 - Dual 5015
-
-**Available Probe configurations:**
-- BEACON (Why would you ever need anything else?)
   
+**Available Probe configurations:**
+- BEACON Probe
+
+**WIP Probe configurations:**
+- Klicky
 ![2](Images/ww_back.png)
 
 ## 2024 Roadmap
