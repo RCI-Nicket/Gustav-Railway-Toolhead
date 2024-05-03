@@ -77,7 +77,8 @@ Everything on this Toolhead is made to work smoothly inside the Monolith Gantry,
 - Recommended material: **ABS CF/GF or better**
 
 ## Bills of Material
-- 2x MakerBeam XL T-Nut 15x15 (Not realy needed, but way more comfortable) 
+- 2x MakerBeam XL T-Nut 15x15 (Not realy needed, but way more comfortable)
+- ?x 5.5x5.5 M3 Nuts
 
 
 <br/><br/><br/><br/>
