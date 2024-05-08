@@ -54,6 +54,7 @@ Everything on this Toolhead is made to work smoothly inside the Monolith Gantry,
 ### Planned improvements for R1:
 - Fully Metall Version to Support Chube and Secret Hotend Conduction, as well as some improved Water Options.
 - VZHextruder Configuration since those stupid mounting positions are annoying.
+- Print in place supports
 
 ## Design goals
 - It was made to fit inside the Monolith Gantry wihtout loosing anything
