@@ -3,10 +3,6 @@
 # Gustav - Railway Toolhead (WIP)
 ![1](Images/wristwatch.png)
 
-*If you have questions, have some suggestions or wanna stay more up to date with our Railway System, consider joining the dedicated Discord server*
-
-[![Join the Discord](https://discord.com/api/guilds/1209243645421555815/widget.png?style=banner3)]([https://discord.gg/JanBKxAzDz](https://discord.gg/982nJFKNEd))
-
 ## What's this?
 This is a performance-oriented, configurable Toolhead platform for the Monolith Gantry which was made for the Voron V2.4/Trident by CloakedWayne.
 Everything on this Toolhead is made to work smoothly inside the Monolith Gantry, which results into 0 Build Volume loss and to actually use it´s full potential. 
