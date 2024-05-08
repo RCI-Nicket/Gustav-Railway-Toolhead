@@ -33,11 +33,11 @@ Everything on this Toolhead is made to work smoothly inside the Monolith Gantry,
 
 **Available Part Cooling FAN configurations:**
 - CPAP
-
+- Dual 5015
 
 **WIP Hotend configurations:**
 - Single 5015
-- Dual 5015
+
 
   
 **Available Probe configurations:**
