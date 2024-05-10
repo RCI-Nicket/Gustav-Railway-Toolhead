@@ -24,6 +24,7 @@ Everything on this Toolhead is made to work smoothly inside the Monolith Gantry,
 **Available Extruder configurations:**
 - DFA Extruder by Annex [here](https://github.com/Annex-Engineering/Folded_Ascender-Extruder)
 - WristWatch Extruder [here](https://github.com/tetsu97/WristWatch-G2-Extruder/tree/main)
+- Micro-Cosm [here](https://github.com/Okanoa/micro-cosm/tree/main)
 
 
 **WIP Hotend configurations:**
